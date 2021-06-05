@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    margin-top: 25px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
+
+#mou{
+   width: 400px;
+       height: 350px;
+}
